@@ -29,7 +29,7 @@
                         </a>
                         <a class="btn mobile-vertical btn-default btn-hover btn-hover-outline-mobile animate-headline"
                             href="LankeshHalangodaCV.pdf" download="LankeshHalangodaCV.pdf">
-                            <span class="btn-caption">Download CV</span>
+                            <span class="btn-caption">View My Resume</span>
                             <i class="ph-bold ph-download-simple"></i>
                         </a>
 
@@ -90,21 +90,21 @@
                         <div class="achievements__item d-flex flex-column grid-item animate-card-3">
                             <div class="achievements__card">
                                 <p class="achievements__number">10+</p>
-                                <p class="achievements__descr">Personal clients</p>
+                                <p class="achievements__descr">Satisfied Clients</p>
                             </div>
                         </div>
                         <!-- achievements single item -->
                         <div class="achievements__item d-flex flex-column grid-item animate-card-3">
                             <div class="achievements__card">
-                                <p class="achievements__number">1+</p>
+                                <p class="achievements__number">4+</p>
                                 <p class="achievements__descr">Years of experience</p>
                             </div>
                         </div>
                         <!-- achievements single item -->
                         <div class="achievements__item d-flex flex-column grid-item animate-card-3">
                             <div class="achievements__card">
-                                <p class="achievements__number">30+</p>
-                                <p class="achievements__descr">Project enrollments</p>
+                                <p class="achievements__number">20+</p>
+                                <p class="achievements__descr">Completed Projects</p>
                             </div>
                         </div>
                     </div>

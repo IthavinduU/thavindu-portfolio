@@ -6,7 +6,7 @@
             <div class="avatar__logo d-flex align-items-center">
 
               <div class="logo__caption">
-                <p>Lankesh Halangoda</p>
+                <p>Thavindu Liyanage</p>
               </div>
             </div>
             <div class="avatar__image">
@@ -16,14 +16,14 @@
           <!-- data caption #1 -->
           <div class="avatar__block">
             <h6>
-              <small class="top">Designation:</small>
-              Software Engineering Professional
+              <small class="top"></small>
+             Computer Science Undergraduate
             </h6>
           </div>
           <!-- data caption #2 -->
           <div class="avatar__block">
             <h6>
-              <small class="top">From:</small>
+              <small class="top"></small>
               Kandy, Sri Lanka
             </h6>
           </div>
@@ -50,7 +50,7 @@
             </div>
             <div class="avatar__btnholder">
               <a class="btn btn-default btn-fullwidth btn-hover btn-hover-accent" href="#contact" target="_blank">
-                <span class="btn-caption">Let's Work Together!</span>
+                <span class="btn-caption">Let's Talk !</span>
               </a>
             </div>
           </div>

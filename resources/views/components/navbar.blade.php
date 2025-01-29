@@ -49,7 +49,7 @@
         <!-- Header Controls Start -->
         <div class="header__controls d-flex justify-content-end">
           <a id="notify-trigger" class="header__trigger btn" href="mailto:example@example.com?subject=Message%20from%20your%20site">
-            <span class="trigger__caption">Let's Communicate</span>
+            <span class="trigger__caption">Let's Talk</span>
             <i class="ph-bold ph-chat-dots"></i>
           </a>
         </div>
