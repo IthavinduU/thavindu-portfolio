@@ -1,0 +1,24 @@
+
+    /* Fade In Down Animation */
+    .fade-in-down {
+        opacity: 0;
+        transform: translateY(-20px);
+        transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .fade-in-down.show {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+   /* Fade In Up Animation */
+   .fade-in-up {
+        opacity: 0;
+        transform: translateY(20px);
+        transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .fade-in-up.show {
+        opacity: 1;
+        transform: translateY(0);
+    }
